@@ -1,0 +1,52 @@
+# ---------- 数据与权重 ----------
+dataset*/
+datasets/
+*.pt
+*.pth
+*.onnx
+*.engine
+*.kmodel
+
+# ---------- 训练产物 ----------
+runs/
+logs/
+exp*/
+outputs/
+checkpoints/
+
+# ---------- 运行环境 ----------
+venv/
+envs/
+.venv/
+
+# ---------- 不公开的材料 ----------
+课程资料/
+_提交/
+_private/
+ultralytics-cfg/
+*.docx
+/WORKLOG.md
+/DIRECTORY.md
+report/*.md
+!report/实验结果与分析.md
+
+# ---------- 缓存 ----------
+__pycache__/
+*.pyc
+.cache/
+.pytest_cache/
+
+# ---------- 编辑器与系统 ----------
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---------- 大文件与临时文件 ----------
+*.zip
+*.rar
+*.7z
+*.bak
+*.bak_*
+*.tmp
