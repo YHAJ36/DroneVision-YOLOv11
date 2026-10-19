@@ -51,3 +51,7 @@ desktop.ini
 *.bak_*
 *.tmp
 report/*.pdf
+# 个人求职材料（不公开）
+report/make_interview_pdf.py
+report/make_resume_pdf.py
+report/*.pdf
