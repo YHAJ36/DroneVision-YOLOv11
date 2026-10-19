@@ -57,3 +57,7 @@ report/make_resume_pdf.py
 report/*.pdf
 report/*.jpg
 report/*.jpeg
+
+# 个人材料与课设笔记（不入库）
+report/_求职材料/
+report/_课设文档/
