@@ -55,3 +55,5 @@ report/*.pdf
 report/make_interview_pdf.py
 report/make_resume_pdf.py
 report/*.pdf
+report/*.jpg
+report/*.jpeg
